@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Partth 👋
 
-<!--
-**partthbagaria/partthbagaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security-focused software engineer with strong Python experience.
+Currently working on static analysis tools for smart contract security.
 
-Here are some ideas to get you started:
+### 🔐 Focus Areas
+- Static code analysis
+- Smart contract security (Solidity)
+- Vulnerability detection (AST & regex based)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Highlight Project
+- Smart Contract Vulnerability Pattern Detector
+  - Detects 22 Solidity vulnerabilities
+  - AST-based + regex-based rules
+  - Built in Python
+
+### 🛠 Tech
+Python | Solidity | Static Analysis | Git | Linux
+
+📌 Looking for internships / junior roles in:
+Security • Backend (Python) • Smart Contract Security
