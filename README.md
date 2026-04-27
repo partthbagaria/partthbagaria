@@ -43,5 +43,5 @@ time-window logic with false-positive suppression.
 
 I'm open to internships, entry-level roles, and collaborations in cybersecurity.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/partth-bagaria-7a1a60323/)
 [![Email](https://img.shields.io/badge/Email-partthbagaria@gmail.com-D14836?style=flat&logo=gmail)](mailto:partthbagaria@gmail.com)
